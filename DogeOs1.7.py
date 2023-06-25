@@ -93,7 +93,7 @@ print("                                      gggggg      g:::::g                
 time.sleep(0.01)
 print("                                      g:::::gg   gg:::::g                                                         ")
 time.sleep(0.01)
-print("                                       g::::::ggg:::::::g                 v1.5")
+print("                                       g::::::ggg:::::::g                 v1.7")
 time.sleep(0.01)
 print("                                        gg:::::::::::::g                                                          ")
 time.sleep(0.01)
